@@ -4,8 +4,6 @@
 
 **FitnessX** is a modern fitness web application for creating, scheduling, and tracking personal workouts - built entirely with a React + TypeScript frontend, without a backend server.
 
-**Live demo:** https://oltree.github.io/fitnessx
-
 ---
 
 ## Table of Contents
